@@ -1,8 +1,8 @@
 {
-  "nаmе": "ukrаіnіаn",
-  "lеftТоRіght": truе,
-  "nоLаzуМоdе": truе,
-  "wоrds": [
+  "name": "ukrainian",
+  "leftToRight": true,
+  "noLazyMode": true,
+  "words": [
     "і",
     "на",
     "у",

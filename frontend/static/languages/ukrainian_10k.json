@@ -1,8 +1,8 @@
 {
-  "nаmе": "ukrаіnіаn_10k",
-  "lеftТоRіght": truе,
-  "nоLаzуМоdе": truе,
-  "wоrds": [
+  "name": "ukrainian_10k",
+  "leftToRight": true,
+  "noLazyMode": true,
+  "words": [
     "і",
     "на",
     "у",
